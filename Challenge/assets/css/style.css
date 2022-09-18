@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*Every div tag changed for simantic purposes (header, nav, section, article, aside and aside) */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -85,6 +85,7 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+/* multiple sections repeating same css code, removed and customeclasses added for efficiency and readability(benefits and services)*/
 
 .benefit {
     margin-bottom: 32px;
